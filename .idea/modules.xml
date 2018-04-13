@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pdf417MobiSample.iml" filepath="$PROJECT_DIR$/Pdf417MobiSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdf417MobiSample/pdf417MobiSample.iml" filepath="$PROJECT_DIR$/pdf417MobiSample/pdf417MobiSample.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Wed Apr 11 23:01:47 ART 2018
+2.base=/home/rodebian/Desktop/estesi/pdf417-android/Pdf417MobiSample/pdf417MobiSample/build/intermediates/transforms/mergeJniLibs/release/0
+5.set=NATIVE_RESOURCE
+0.path=lib/x86_64/libPdf417Mobi.so
+2.baseType=DIRECTORY
+3.base=/home/rodebian/Desktop/estesi/pdf417-android/Pdf417MobiSample/pdf417MobiSample/build/intermediates/transforms/dex/release/0
+2.set=NATIVE_RESOURCE
+1.path=lib/armeabi-v7a/libPdf417Mobi.so
+4.base=/home/rodebian/Desktop/estesi/pdf417-android/Pdf417MobiSample/pdf417MobiSample/build/intermediates/assets/release
+count=7
+5.baseType=DIRECTORY
+2.path=lib/arm64-v8a/libPdf417Mobi.so
+5.base=/home/rodebian/Desktop/estesi/pdf417-android/Pdf417MobiSample/pdf417MobiSample/build/intermediates/transforms/mergeJniLibs/release/0
+4.set=ASSET
+3.path=classes.dex
+6.base=/home/rodebian/Desktop/estesi/pdf417-android/Pdf417MobiSample/pdf417MobiSample/build/intermediates/assets/release
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=microblink/device_list.json
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=lib/x86/libPdf417Mobi.so
+0.base=/home/rodebian/Desktop/estesi/pdf417-android/Pdf417MobiSample/pdf417MobiSample/build/intermediates/transforms/mergeJniLibs/release/0
+0.baseType=DIRECTORY
+3.set=DEX
+6.path=com.microblink.barcode.mblic
+1.base=/home/rodebian/Desktop/estesi/pdf417-android/Pdf417MobiSample/pdf417MobiSample/build/intermediates/transforms/mergeJniLibs/release/0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE

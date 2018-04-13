@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/rodebian/Desktop/estesi/pdf417-android/Pdf417MobiSample/pdf417MobiSample/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "/home/rodebian/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/526bfdc700068d4968120cec8d69e803/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "611",
+                        "endColumns": "48",
+                        "endOffsets": "655"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_alert_dialog_material.xml:0
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_alert_dialog_button_bar_material.xml:0
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_alert_dialog_material.xml:0
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_alert_dialog_title_material.xml:0
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_select_dialog_material.xml:0
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_action_menu_item_layout.xml:0
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_expanded_menu_layout.xml:0
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_list_menu_item_layout.xml:0
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_popup_menu_item_layout.xml:0
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_action_mode_bar.xml:0
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_action_menu_layout.xml:0
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_activity_chooser_view.xml:0
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_alert_dialog_material.xml:0
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_alert_dialog_button_bar_material.xml:0
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_screen_content_include.xml:0
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_alert_dialog_title_material.xml:0
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_screen_simple_overlay_action_mode.xml:0
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_dialog_title_material.xml:0
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_screen_simple.xml:0
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_search_view.xml:0
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_screen_simple.xml:0
+# Referenced at /home/rodebian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6e607d98fc2b7fac6d99c94e1e8cf435/res/layout/abc_screen_simple_overlay_action_mode.xml:0
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at /home/rodebian/Desktop/estesi/pdf417-android/Pdf417MobiSample/pdf417MobiSample/build/intermediates/manifests/full/release/AndroidManifest.xml:47
+-keep class com.microblink.activity.BarcodeScanActivity { <init>(...); }
+
+# Referenced at /home/rodebian/Desktop/estesi/pdf417-android/Pdf417MobiSample/pdf417MobiSample/build/intermediates/manifests/full/release/AndroidManifest.xml:37
+-keep class mobi.pdf417.demo.Pdf417MobiDemoActivity { <init>(...); }
+
+# Referenced at /home/rodebian/Desktop/estesi/pdf417-android/Pdf417MobiSample/pdf417MobiSample/build/intermediates/manifests/full/release/AndroidManifest.xml:31
+-keep class mobi.pdf417.demo.Pdf417MobiDemoApp { <init>(...); }
+
+# Referenced at /home/rodebian/Desktop/estesi/pdf417-android/Pdf417MobiSample/pdf417MobiSample/src/main/res/layout/activity_main.xml:0
+-keepclassmembers class * { *** onScanButtonClick(...); }
+
